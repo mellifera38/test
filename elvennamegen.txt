@@ -1,0 +1,41 @@
+$name : Elven Name Generator
+$author : Mel
+$description : Generates Random Elven Names
+$amount : 10
+$button : Generate!
+
+$start
+[Aas|Agath|Ala|Ael|Ar|Arn|Aym|Adr|Ah|Alth|Ay|Alis|Aler|Anas|Anast|And|Andr|Ant|Antin|Arar|Ari|Arl|Ath|Athal|Ad|Adr|Aer|Ahv|Avar|Aram|Arann|Aus|Azak|Az|Al|Alor|Amak|Am|Amas]
+[Aries|Arnu|Ayal|B|Ber|Baer|Be|Bir|Beth|Bel|Bes|Bher|Bael|Bry|Bryn|Bress|C|Cel|Caal|Cael|Cy|Cor|Cl|Clair|Ch|Cha|Carr|Caerd|Caph|Cas|Casil|Cith|D|Da|Dan|Dann|Dahl|Danik|Dael]
+[Daer|Dar|Dath|Dathar|Darth|Dav|Davil|Dev|Devl|Del|Delm|Dh|Dho|Dom|Dra|Drad|Du|Duem|Duroth|Dus|Drus|Day|Dre|Dal|Dalan|Delr|Deth|E|El|Er|Ery|Eryn|Elam|Elan|Elass|Elen|Elh|Elik]
+[Erl|Elles|En|Ent|Enn|Eff|Eir|Er|Eroth|Est|Estel|Ether|Erd|Erev|Eath|Eren|Eth|Ethan|Evan|Ever|Ev|Evenar|Faer|Fael|Fal|Fan|Fes|Fey|Festr|Faen|Far|Fel|Fiv|Fash|Fira|Fera|Fl|Fath]
+[Fa|Fon|Gael|Gaer|Gar|Geth|Ghar|Glen|Gold|Gal|Galin|Genn|Ger|Galan|Gol|Hara|Hat|Had|Hal|H|Him|Han|Hanal|Hol|Inn|In|Iel|Ielen|Ilan|Il|Ilb|Ilm|Iln|Ilth|Ill|Illy|Ir|Iran|Imm|Im]
+[In|Inay|Iren|Irrym|Isan|Isand|Iv|Ivel|Ia|Iath|Iph|Ith|Ithal|Jar|Jhar|Jhal|Jalm|Jhuv|Jom|Jud|Jul|Juln|Jars|Jel|Jelen|Jere|Jan|Jand|Kael|Kagh|Kas|Katy|Kell|Kel|Keov|Kesy|Kan]
+[Ko|Koeth|Key|Ke|Keyl|Kik|Kir|Kiv|Kor|Kori|Koeh|Kos|Kosir|La|Lael|Laer|Lu|Lesh|Lia|Liss|List|Llew|Lor|Lori|Lossar|Loss|Luci|Lyth|Ly|Lam|Lau|Luc|Lath|Liad|Mai|Mar|Marel|Mak|Mell]
+[Mekr|My|Mai|Mal|Malr|Mer|Meri|Mari|Mia|Mya|Min|Mind|Mel|Melf|Mir|Mik|Mys|Myst|Mol|Morin|Mor|Muir|Myr|Myth|Mythan|Moon|Naer|N|Nim|Naiv|Naal|Nalav|Nial|Nera|Nere|Neth|Nush|Nath]
+[Nilm|Nimal|Nimer|Nym|Ost|Oth|Ol|Olir|Or|Ord|Petr|Pel|Pelen|Pha|Phan|Plen|Py|Pael|Per|Peren|Que|Quel|Quill|Qu|Quar|Qual|Ray|Rael|R|Rath|Raer|Raev|Ren|Rinn|Ruan|Rid|Rol|Raeth]
+[Roth|Rha|Rhael|Ry|Ryl|Rel|Reluv|Renn|Rili|Ril|Rhy|Rhyst|Rhys|Run|Saer|Sael|Sa|Sam|Salv|Sanath|San|Sal|Ser|Selen|Sel|Sheer|Sum|Syll|Sar|Sari|Shan|Shad|Shael|Shial|Shav|Sh|Shy]
+[Shyll|Shal|Shalin|Shel|Sil|Silm|Sin|Sum|Sumn|Sof|Sov|Sol|Solad|Soval|Srin|Silvr|Stary|Str|Strath|Stroh|Sovel|Suhn|Selev|Sel|Suh|Sun|Sian|Siann|Suith|Syl|Sy|Sylv|Syr|Sylyn]
+[Ta|T|Tany|Tash|Tashar|Tar|Teth|Th|Thi|Ti|Their|Thial|Tiaath|Tham|Than|Tha|Tom|Tre|Tru|Twyn|Tyr|Tyrr|Thar|Ther|Theri|Therv|The|Thur|Tein|Til|Tilath|Tira|Tiral|Tam|Tamn|Tamor]
+[Taree|Tel|Ulr|Ul|Ulir|Val|V|Va|Vall|Von|Vad|Valan|Valen|Velath|Valn|Vanu|Var|Varor|Vari|Vol|Volur|Vel|Wil|Wasan|With|Xan|Yaer|Zil|Xist|Yael|Yaeldr|Ylv|Za|Zan|Zal|Zalt|Zar]
+
+$mid
+[a|e|i|o|u|y|]
+
+$end
+[a|i|u|e|h|l|m|n|o|r|s|v|sh|th|al|an|am|ar|de|da|el|il|eth|on|la|le|lo|in|ra|rn|rd|ri|ree|le|te|thi|tha|na|ni|sa|st|lee|yn|yl|yth|ys|yrr|ma|me|mee|ne|pe|ve|va|drie|nar|ea|nna]
+[draste|ste|nua|dran|elar|rdeth|eth|vain|ain|mil|ramil|nnis|nis|aki|ro|iir|stacia|cia|ssus|sus|anna|evan|van|revan|iro|rian|irel|rel|ynna|thryn|thra|thyr|tae|roe|ryn|lynn|lyn]
+[di|laira|donel|nel|rdon|xath|rra|nirra|tenira|reth|dara|del|silia|than|nthan|lana|lena|thalena|naeth|sath|nasath|ril|feril|vel|ravel|lis|lys|dan|sian|sial|vin|rash|hel|hem|ndan]
+[nnal|nal|rah|tae|rai|math|limath|nali|mion|nnil|lenia|nia|lanis|rann|meral|ral|lios|rana|velios|thrana|napha|kiir|sali|neth|leth|yleth|fel|rfel|lanna|shana|shan|mlis|cian|can]
+[thalas|las|lass|dona|mara|mella|thah|riel|ele|thil|rtis|mne|liam|liane|relel|stalath|lath|talath|vara|ivara|ilo|drus|ndrus|ronus|phan|lias|ren|lenna|lathe|rion|lanthri|nthri]
+[rael|raer|rua|daro|len|thran|thenel|mi|llin|irla|narla|shava|qui|mnes|velis|nae|varun|run|thrasas|sas|rasas|ranth|varanth|nth|thia|tia|raki|rastra|stra|ala|lam|mior|rivol|theren]
+[tis|atis|riatis|ervan|nithra|thraz|lathana|lathan|vall|dania|nthe|lanthe|lna|valna|nuath|ath|varis|anthi|rethin|thin|phia|scient|nt|rith|srith|strith|drin|ldrin|llan|wellan]
+[dresin|resin|shaee|shae|drian|thalee|rina|luar|nell|faer|lum|dir|ran|mel|mmel|thamel|lon|ralon|elath|rten|raal|deel|dree|ruara|ruar|thyl|methyl|thaela|muth|raeth|ssidil|sidil]
+[lhan|sime|shade|therik|nara|vanara|dethes|ndel|lindel|duil|nduil|ldis|ndar|'ri|talas|tillis|raele|rras|thras|miir|seera|taran|nika|nian|tar|tara|sera|lasera|ratha|natar|thuryn]
+[nayah|nicus|sande|nde|lisyrr|syrr|lma|mini|dhin|mia|tyr|lendil|ksa|kira|mari|nthil|siri|rwyn|damius|mius|thari|krath|ritar|tharian|linara|vrel|draev|reste|toryl|taryl|norn]
+[mersyl|marath|luril|lithir|gluth|trine|cus|vethel|rhyst|vanas|nathar|nlar|litar|laevar|lmara|anon|hlia|felle|daas|rindin|vila|ntra|baerth|reiyn|vilin|lvan|rish|yala|ssana]
+[lvor|vail|resia|ssia|nwar|ssar|zel|ola|natos|tethir|ros|ssir|wrana|taree|naeuth|morlin|laylee|lay|]
+
+$full
+[start][mid][end]
+
